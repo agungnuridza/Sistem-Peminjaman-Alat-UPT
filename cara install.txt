@@ -1,0 +1,4 @@
+1.extrack di drive F:\ 
+2.dan install font yang ada di folder font
+username : admin
+password : admin
